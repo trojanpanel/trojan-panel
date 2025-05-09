@@ -4,15 +4,17 @@
 
 Trojan Panel Backend
 
-## Compile
+## Build
 
-[compile.bat](compile.bat)
+[compile.bat](./compile.bat)
 
-## Telegram
+## Other
 
-Telegram Channel: https://t.me/TrojanPanel
+Telegram Channel: https://t.me/jonssonyan_channel
 
-## Thanks
+You can subscribe to my channel on YouTube: https://www.youtube.com/@jonssonyan
+
+## Support
 
 - [trojan](https://github.com/trojan-gfw/trojan)
 - [trojan-go](https://github.com/p4gefau1t/trojan-go)
