@@ -4,13 +4,15 @@
 
 木马面板后端
 
-## 编译
+## 构建
 
 [compile.bat](compile.bat)
 
-## 电报
+## 其他
 
-Telegram Channel: https://t.me/TrojanPanel
+Telegram Channel: https://t.me/jonssonyan_channel
+
+You can subscribe to my channel on YouTube: https://www.youtube.com/@jonssonyan
 
 ## 致谢
 
